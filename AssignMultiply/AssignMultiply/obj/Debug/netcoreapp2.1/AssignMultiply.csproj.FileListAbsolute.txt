@@ -1,0 +1,11 @@
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\bin\Debug\netcoreapp2.1\AssignMultiply.deps.json
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\bin\Debug\netcoreapp2.1\AssignMultiply.runtimeconfig.json
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\bin\Debug\netcoreapp2.1\AssignMultiply.runtimeconfig.dev.json
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\bin\Debug\netcoreapp2.1\AssignMultiply.dll
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\bin\Debug\netcoreapp2.1\AssignMultiply.pdb
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\obj\Debug\netcoreapp2.1\AssignMultiply.csprojAssemblyReference.cache
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\obj\Debug\netcoreapp2.1\AssignMultiply.csproj.CoreCompileInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\obj\Debug\netcoreapp2.1\AssignMultiply.AssemblyInfoInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\obj\Debug\netcoreapp2.1\AssignMultiply.AssemblyInfo.cs
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\obj\Debug\netcoreapp2.1\AssignMultiply.dll
+C:\Users\ben99\Documents\C#\repos\AssignMultiply\AssignMultiply\obj\Debug\netcoreapp2.1\AssignMultiply.pdb

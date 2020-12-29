@@ -1,0 +1,10 @@
+C:\Users\ben99\Documents\C#\repos\AssignGrade\AssignGrade\bin\Debug\netcoreapp2.1\AssignGrade.deps.json
+C:\Users\ben99\Documents\C#\repos\AssignGrade\AssignGrade\bin\Debug\netcoreapp2.1\AssignGrade.runtimeconfig.json
+C:\Users\ben99\Documents\C#\repos\AssignGrade\AssignGrade\bin\Debug\netcoreapp2.1\AssignGrade.runtimeconfig.dev.json
+C:\Users\ben99\Documents\C#\repos\AssignGrade\AssignGrade\bin\Debug\netcoreapp2.1\AssignGrade.dll
+C:\Users\ben99\Documents\C#\repos\AssignGrade\AssignGrade\bin\Debug\netcoreapp2.1\AssignGrade.pdb
+C:\Users\ben99\Documents\C#\repos\AssignGrade\AssignGrade\obj\Debug\netcoreapp2.1\AssignGrade.csproj.CoreCompileInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignGrade\AssignGrade\obj\Debug\netcoreapp2.1\AssignGrade.AssemblyInfoInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignGrade\AssignGrade\obj\Debug\netcoreapp2.1\AssignGrade.AssemblyInfo.cs
+C:\Users\ben99\Documents\C#\repos\AssignGrade\AssignGrade\obj\Debug\netcoreapp2.1\AssignGrade.dll
+C:\Users\ben99\Documents\C#\repos\AssignGrade\AssignGrade\obj\Debug\netcoreapp2.1\AssignGrade.pdb
