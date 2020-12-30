@@ -1,0 +1,11 @@
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\bin\Debug\netcoreapp2.1\AppIfElse.deps.json
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\bin\Debug\netcoreapp2.1\AppIfElse.runtimeconfig.json
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\bin\Debug\netcoreapp2.1\AppIfElse.runtimeconfig.dev.json
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\bin\Debug\netcoreapp2.1\AppIfElse.dll
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\bin\Debug\netcoreapp2.1\AppIfElse.pdb
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\obj\Debug\netcoreapp2.1\AppIfElse.csproj.CoreCompileInputs.cache
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\obj\Debug\netcoreapp2.1\AppIfElse.AssemblyInfoInputs.cache
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\obj\Debug\netcoreapp2.1\AppIfElse.AssemblyInfo.cs
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\obj\Debug\netcoreapp2.1\AppIfElse.dll
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\obj\Debug\netcoreapp2.1\AppIfElse.pdb
+C:\Users\ben99\Documents\C#\repos\AppIfElse\AppIfElse\obj\Debug\netcoreapp2.1\AppIfElse.csprojAssemblyReference.cache
