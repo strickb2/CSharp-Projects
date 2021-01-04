@@ -1,0 +1,11 @@
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\bin\Debug\netcoreapp2.1\AssignFactorial.deps.json
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\bin\Debug\netcoreapp2.1\AssignFactorial.runtimeconfig.json
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\bin\Debug\netcoreapp2.1\AssignFactorial.runtimeconfig.dev.json
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\bin\Debug\netcoreapp2.1\AssignFactorial.dll
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\bin\Debug\netcoreapp2.1\AssignFactorial.pdb
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\obj\Debug\netcoreapp2.1\AssignFactorial.csprojAssemblyReference.cache
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\obj\Debug\netcoreapp2.1\AssignFactorial.csproj.CoreCompileInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\obj\Debug\netcoreapp2.1\AssignFactorial.AssemblyInfoInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\obj\Debug\netcoreapp2.1\AssignFactorial.AssemblyInfo.cs
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\obj\Debug\netcoreapp2.1\AssignFactorial.dll
+C:\Users\ben99\Documents\C#\repos\AssignFactorial\AssignFactorial\obj\Debug\netcoreapp2.1\AssignFactorial.pdb

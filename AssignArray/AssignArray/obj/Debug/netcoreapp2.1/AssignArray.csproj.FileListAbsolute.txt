@@ -1,0 +1,11 @@
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\bin\Debug\netcoreapp2.1\AssignArray.deps.json
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\bin\Debug\netcoreapp2.1\AssignArray.runtimeconfig.json
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\bin\Debug\netcoreapp2.1\AssignArray.runtimeconfig.dev.json
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\bin\Debug\netcoreapp2.1\AssignArray.dll
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\bin\Debug\netcoreapp2.1\AssignArray.pdb
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\obj\Debug\netcoreapp2.1\AssignArray.csprojAssemblyReference.cache
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\obj\Debug\netcoreapp2.1\AssignArray.csproj.CoreCompileInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\obj\Debug\netcoreapp2.1\AssignArray.AssemblyInfoInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\obj\Debug\netcoreapp2.1\AssignArray.AssemblyInfo.cs
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\obj\Debug\netcoreapp2.1\AssignArray.dll
+C:\Users\ben99\Documents\C#\repos\AssignArray\AssignArray\obj\Debug\netcoreapp2.1\AssignArray.pdb
