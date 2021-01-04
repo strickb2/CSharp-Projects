@@ -13,18 +13,42 @@ namespace AssignInterest
             {
                 Console.WriteLine("Enter Name: ");
                 Name = Convert.ToString(Console.ReadLine());
+                while (string.IsNullOrEmpty(Name))
+                {
+                    Console.Write("Name can't be empty! Enter your name again: ");
+                    Name = Console.ReadLine();
+                }
                 Console.WriteLine("Enter Loan Amount: ");
-                LoanAmount = Convert.ToDouble(Console.ReadLine());
+                var AmountString = Console.ReadLine();
+                while (!double.TryParse(AmountString, out LoanAmount))
+                {
+                    Console.Write("Amount must be a numerical value, enter Loan Amount again: ");
+                    AmountString = Console.ReadLine();
+                }
                 Console.WriteLine("Enter Loan Period (in years): ");
-                LoanTime = Convert.ToInt32(Console.ReadLine());
+                var TimeString = Console.ReadLine();
+                while (!int.TryParse(TimeString, out LoanTime))
+                {
+                    Console.Write("Amount must be a numerical value, enter Loan Period (in years) again: ");
+                    TimeString = Console.ReadLine();
+                }
                 Console.WriteLine("Enter Interest Rate: ");
-                InterestRate = Convert.ToDouble(Console.ReadLine());
+                var InterestString = Console.ReadLine();
+                while (!double.TryParse(InterestString, out InterestRate))
+                {
+                    Console.Write("Rate must be a numerical value, enter Interest Rate again: ");
+                    InterestString = Console.ReadLine();
+                }
                 SimpleInterest = LoanAmount * LoanTime * InterestRate;
                 Console.WriteLine("{0}: Simple Interest Rate is {1}", Name, SimpleInterest);
             }
             catch(FormatException ex1)
             {
                 Console.WriteLine("Invalid input format...{0}", ex1.Message);
+            }
+            catch(Exception ex2)
+            {
+                Console.WriteLine("Some exception occured...{0}", ex2.Message);
             }
             
         }

@@ -9,3 +9,14 @@ C:\Users\ben99\source\repos\AssignInterest\AssignInterest\obj\Debug\netcoreapp2.
 C:\Users\ben99\source\repos\AssignInterest\AssignInterest\obj\Debug\netcoreapp2.1\AssignInterest.AssemblyInfo.cs
 C:\Users\ben99\source\repos\AssignInterest\AssignInterest\obj\Debug\netcoreapp2.1\AssignInterest.dll
 C:\Users\ben99\source\repos\AssignInterest\AssignInterest\obj\Debug\netcoreapp2.1\AssignInterest.pdb
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\bin\Debug\netcoreapp2.1\AssignInterest.deps.json
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\bin\Debug\netcoreapp2.1\AssignInterest.runtimeconfig.json
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\bin\Debug\netcoreapp2.1\AssignInterest.runtimeconfig.dev.json
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\bin\Debug\netcoreapp2.1\AssignInterest.dll
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\bin\Debug\netcoreapp2.1\AssignInterest.pdb
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\obj\Debug\netcoreapp2.1\AssignInterest.csprojAssemblyReference.cache
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\obj\Debug\netcoreapp2.1\AssignInterest.csproj.CoreCompileInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\obj\Debug\netcoreapp2.1\AssignInterest.AssemblyInfoInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\obj\Debug\netcoreapp2.1\AssignInterest.AssemblyInfo.cs
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\obj\Debug\netcoreapp2.1\AssignInterest.dll
+C:\Users\ben99\Documents\C#\repos\AssignInterest\AssignInterest\obj\Debug\netcoreapp2.1\AssignInterest.pdb

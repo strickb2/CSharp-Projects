@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ben99\\source\\repos\\AssignInterest\\AssignInterest\\AssignInterest.csproj": {}
+    "C:\\Users\\ben99\\Documents\\C#\\repos\\AssignInterest\\AssignInterest\\AssignInterest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ben99\\source\\repos\\AssignInterest\\AssignInterest\\AssignInterest.csproj": {
+    "C:\\Users\\ben99\\Documents\\C#\\repos\\AssignInterest\\AssignInterest\\AssignInterest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ben99\\source\\repos\\AssignInterest\\AssignInterest\\AssignInterest.csproj",
+        "projectUniqueName": "C:\\Users\\ben99\\Documents\\C#\\repos\\AssignInterest\\AssignInterest\\AssignInterest.csproj",
         "projectName": "AssignInterest",
-        "projectPath": "C:\\Users\\ben99\\source\\repos\\AssignInterest\\AssignInterest\\AssignInterest.csproj",
+        "projectPath": "C:\\Users\\ben99\\Documents\\C#\\repos\\AssignInterest\\AssignInterest\\AssignInterest.csproj",
         "packagesPath": "C:\\Users\\ben99\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ben99\\source\\repos\\AssignInterest\\AssignInterest\\obj\\",
+        "outputPath": "C:\\Users\\ben99\\Documents\\C#\\repos\\AssignInterest\\AssignInterest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
