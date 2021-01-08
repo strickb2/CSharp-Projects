@@ -1,0 +1,11 @@
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\bin\Debug\netcoreapp2.1\AssignVowels.deps.json
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\bin\Debug\netcoreapp2.1\AssignVowels.runtimeconfig.json
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\bin\Debug\netcoreapp2.1\AssignVowels.runtimeconfig.dev.json
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\bin\Debug\netcoreapp2.1\AssignVowels.dll
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\bin\Debug\netcoreapp2.1\AssignVowels.pdb
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\obj\Debug\netcoreapp2.1\AssignVowels.csprojAssemblyReference.cache
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\obj\Debug\netcoreapp2.1\AssignVowels.csproj.CoreCompileInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\obj\Debug\netcoreapp2.1\AssignVowels.AssemblyInfoInputs.cache
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\obj\Debug\netcoreapp2.1\AssignVowels.AssemblyInfo.cs
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\obj\Debug\netcoreapp2.1\AssignVowels.dll
+C:\Users\ben99\Documents\C#\repos\AssignVowels\AssignVowels\obj\Debug\netcoreapp2.1\AssignVowels.pdb

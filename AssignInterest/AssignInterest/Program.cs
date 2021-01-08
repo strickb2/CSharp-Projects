@@ -8,7 +8,7 @@ namespace AssignInterest
         {
             string Name;
             int LoanTime;
-            double InterestRate, LoanAmount, SimpleInterest;
+            double InterestRate, LoanAmount, totalAmount;
             try
             {
                 Console.WriteLine("Enter Name: ");
@@ -39,8 +39,8 @@ namespace AssignInterest
                     Console.Write("Rate must be a numerical value, enter Interest Rate again: ");
                     InterestString = Console.ReadLine();
                 }
-                SimpleInterest = LoanAmount * LoanTime * InterestRate;
-                Console.WriteLine("{0}: Simple Interest Rate is {1}", Name, SimpleInterest);
+                totalAmount = CalcInterest(LoanAmount, LoanTime, InterestRate);
+                Console.WriteLine($"{Name}: Total Amount is {totalAmount}");
             }
             catch(FormatException ex1)
             {
@@ -51,6 +51,12 @@ namespace AssignInterest
                 Console.WriteLine("Some exception occured...{0}", ex2.Message);
             }
             
+        }
+        static double CalcInterest(double amount, int year, double rate)
+        {
+            double interest = amount * year * rate / 100;
+            double totalAmount = amount + interest;
+            return (totalAmount);
         }
     }
 }
